@@ -60,3 +60,21 @@ This repo was built for educational and verification purposes.
 Feel free to use, modify, or extend the implementation.
 
 ---
+## 🖼 Example Result Plots
+
+### SMC_Reaching_law
+!{SMC](figures/SMC_Reaching_law.png)
+
+### Simulink model
+![Simulink](figures/Simulink model.png)
+
+### Position and Speed Tracking
+![Position](figures/position_tracking.png)
+
+### Phase Trajectory
+![Phase](figures/phase_trajectory.png)
+
+### Control Input
+![Control](figures/control_input.png)
+
+
