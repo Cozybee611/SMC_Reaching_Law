@@ -62,19 +62,16 @@ Feel free to use, modify, or extend the implementation.
 ---
 ## 🖼 Example Result Plots
 
-### SMC_Reaching_law
-!{SMC](figures/SMC_Reaching_law.png)
-
-### Simulink model
-![Simulink](figures/Simulink model.png)
+### SMC Model Overview
+![SMC Model](figures/SMC_Reaching_law.png)
 
 ### Position and Speed Tracking
-![Position](figures/position_tracking.png)
+![Position Tracking](figures/Position%20and%20Speed%20Tracking.png)
 
 ### Phase Trajectory
-![Phase](figures/phase_trajectory.png)
+![Phase Trajectory](figures/Phase%20Trajectory.png)
 
 ### Control Input
-![Control](figures/control_input.png)
+![Control Input](figures/Control%20Input.png)
 
 
