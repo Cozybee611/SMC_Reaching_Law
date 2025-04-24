@@ -1,4 +1,4 @@
-# 🚗 Sliding Mode Controller (SMC) with Reaching Law – MATLAB & Simulink Implementation
+# Sliding Mode Controller (SMC) with Reaching Law – MATLAB & Simulink Implementation
 
 This project implements a **Sliding Mode Controller (SMC)** based on the reaching law method, as described in the referenced research paper. The system is tested using both **MATLAB (ODE solver)** and **Simulink**, and tracking performance, phase trajectory, and control input behavior are compared.
 
@@ -50,7 +50,7 @@ This project implements a **Sliding Mode Controller (SMC)** based on the reachin
 ## Reference
 
 > *Design of Sliding Mode Controller based on Reaching Law*  
-> [Insert full citation from your PDF paper here]
+> [Design of Sliding Mode Controller (SMC) based on Reaching Law]
 
 ---
 
